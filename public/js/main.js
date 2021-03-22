@@ -1,1 +1,1 @@
-let x = (y) => y*4; 
+const x = (y) => y*4; 
