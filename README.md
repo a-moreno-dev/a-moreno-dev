@@ -10,6 +10,7 @@ Me divierto desarrollando soluciones con tecnologías y estándares como.
 >PHP, Laravel, C#, Javascript, Reac.js, Angular, JQuery, TypeScrip, Vue.js, 
 Express, Node.js, Git, GitHub, HTML5, CSS3, OOP, MySQL, SQL Server, OracleDB, PostgreSQL, NoSQL, Linux, web QA, Agile SCRUM.
 
+![Web develop technologies!](/assets/img/technologies.jpg "Web develop technologies")
 
 ## Contactame
 - Gmail : <antonio.moreno.dev@gmail.com>
